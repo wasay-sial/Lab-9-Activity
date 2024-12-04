@@ -1,0 +1,25 @@
+C:\Users\233511\Desktop\Lab 9 VP\Activity lab\Activity lab\bin\Debug\Activity lab.exe.config
+C:\Users\233511\Desktop\Lab 9 VP\Activity lab\Activity lab\bin\Debug\Activity lab.exe
+C:\Users\233511\Desktop\Lab 9 VP\Activity lab\Activity lab\bin\Debug\Activity lab.pdb
+C:\Users\233511\Desktop\Lab 9 VP\Activity lab\Activity lab\obj\Debug\Activity lab.csproj.AssemblyReference.cache
+C:\Users\233511\Desktop\Lab 9 VP\Activity lab\Activity lab\obj\Debug\Activity lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\233511\Desktop\Lab 9 VP\Activity lab\Activity lab\obj\Debug\Activity_lab.Form1.resources
+C:\Users\233511\Desktop\Lab 9 VP\Activity lab\Activity lab\obj\Debug\Activity_lab.Properties.Resources.resources
+C:\Users\233511\Desktop\Lab 9 VP\Activity lab\Activity lab\obj\Debug\Activity lab.csproj.GenerateResource.cache
+C:\Users\233511\Desktop\Lab 9 VP\Activity lab\Activity lab\obj\Debug\Activity lab.csproj.CoreCompileInputs.cache
+C:\Users\233511\Desktop\Lab 9 VP\Activity lab\Activity lab\obj\Debug\Activity lab.exe
+C:\Users\233511\Desktop\Lab 9 VP\Activity lab\Activity lab\obj\Debug\Activity lab.pdb
+C:\Users\233511\Desktop\Lab 9 VP\Activity lab\Activity lab\obj\Debug\Activity_lab.form_2.resources
+C:\Users\233511\Desktop\Lab 9 VP\Activity lab\Activity lab\obj\Debug\Activity_lab.Form3.resources
+E:\BSCS\3rd semester\Visual programming\Lab tasks\Lab 8 activity\Activity lab\bin\Debug\Activity lab.exe.config
+E:\BSCS\3rd semester\Visual programming\Lab tasks\Lab 8 activity\Activity lab\bin\Debug\Activity lab.exe
+E:\BSCS\3rd semester\Visual programming\Lab tasks\Lab 8 activity\Activity lab\bin\Debug\Activity lab.pdb
+E:\BSCS\3rd semester\Visual programming\Lab tasks\Lab 8 activity\Activity lab\obj\Debug\Activity lab.csproj.AssemblyReference.cache
+E:\BSCS\3rd semester\Visual programming\Lab tasks\Lab 8 activity\Activity lab\obj\Debug\Activity_lab.form_2.resources
+E:\BSCS\3rd semester\Visual programming\Lab tasks\Lab 8 activity\Activity lab\obj\Debug\Activity_lab.Form1.resources
+E:\BSCS\3rd semester\Visual programming\Lab tasks\Lab 8 activity\Activity lab\obj\Debug\Activity_lab.Form3.resources
+E:\BSCS\3rd semester\Visual programming\Lab tasks\Lab 8 activity\Activity lab\obj\Debug\Activity_lab.Properties.Resources.resources
+E:\BSCS\3rd semester\Visual programming\Lab tasks\Lab 8 activity\Activity lab\obj\Debug\Activity lab.csproj.GenerateResource.cache
+E:\BSCS\3rd semester\Visual programming\Lab tasks\Lab 8 activity\Activity lab\obj\Debug\Activity lab.csproj.CoreCompileInputs.cache
+E:\BSCS\3rd semester\Visual programming\Lab tasks\Lab 8 activity\Activity lab\obj\Debug\Activity lab.exe
+E:\BSCS\3rd semester\Visual programming\Lab tasks\Lab 8 activity\Activity lab\obj\Debug\Activity lab.pdb
